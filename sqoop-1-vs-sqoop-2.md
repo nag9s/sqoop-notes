@@ -6,9 +6,5 @@ From an MR perspective another difference is that Sqoop submits a Map only job, 
 
 Another major difference in Sqoop2 is from a security perspective. The administrator would be setting up the connections to the source and the targets, while the operator user uses the already established connections, so the operator user need not know the details about the connections. And operators will be given access to only some of the connectors as required.
 
- Sqoop2 is still 
-
-**half cooked**
-
- and a lot more to be improved/developed from a usability/documentation perspective. Although the features of Sqoop2 are interesting, until Sqoop2 becomes more usable/stable we are left with Sqoop to get the data from RDBMs to Hadoop.
+Sqoop2 is still **half cooked **and a lot more to be improved/developed from a usability/documentation perspective. Although the features of Sqoop2 are interesting, until Sqoop2 becomes more usable/stable we are left with Sqoop to get the data from RDBMs to Hadoop. 
 
